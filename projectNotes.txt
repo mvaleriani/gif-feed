@@ -1,0 +1,10 @@
+
+- Page must be responsive to phones, tablets, and browsers
+
+- As the user scrolls down, previously viewed GIFs are taken out of the DOM 
+  (space preserved) in order to improve performance
+
+- Mosaic layout is a result of CSS Grid
+
+- There should be a loading animation while fetching from the Giphy API
+
